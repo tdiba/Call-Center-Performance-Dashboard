@@ -17,12 +17,6 @@ The analysis was built in Microsoft Excel using pivot tables and interactive das
 
 
 
-
-
-
-
-
-
 ### Project Objectives
 The main goals of this project are to:
 - Monitor customer satisfaction (CSAT)
