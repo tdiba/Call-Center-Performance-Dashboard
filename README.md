@@ -16,6 +16,13 @@ The dashboard provides insights into how effectively customer issues are handled
 The analysis was built in Microsoft Excel using pivot tables and interactive dashboard elements.
 
 
+
+
+
+
+
+
+
 ### Project Objectives
 The main goals of this project are to:
 - Monitor customer satisfaction (CSAT)
